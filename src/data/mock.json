@@ -1,0 +1,827 @@
+[
+    {
+        "UsageDate": "01/11/2023",
+        "Usage": {
+            "Commodity": 973660,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 656.48,
+            "Budget": 665.91
+        },
+        "Cost": {
+            "TotalCommodity": 78294.06,
+            "Supply": 78294.06,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 657.49,
+            "Tariff": 657.49,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3004.42,
+            "Other": 73.74,
+            "Total": 82029.71,
+            "Baseline": 0.0,
+            "Budget": 665.91
+        },
+        "Demand": {
+            "Actual": 2723,
+            "Bill": 2378
+        },
+        "Weather": {
+            "HDD": 38.27,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "02/11/2023",
+        "Usage": {
+            "Commodity": 716468,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 710.0,
+            "Budget": 156.53
+        },
+        "Cost": {
+            "TotalCommodity": 90789.31,
+            "Supply": 90789.31,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 893.0,
+            "Tariff": 893.0,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3336.3,
+            "Other": 36.46,
+            "Total": 95055.07,
+            "Baseline": 0.0,
+            "Budget": 156.53
+        },
+        "Demand": {
+            "Actual": 1960,
+            "Bill": 2076
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": 51.92
+        }
+    },
+    {
+        "UsageDate": "03/11/2023",
+        "Usage": {
+            "Commodity": 950337,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 620.6,
+            "Budget": 999.94
+        },
+        "Cost": {
+            "TotalCommodity": 104225.57,
+            "Supply": 104225.57,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 986.47,
+            "Tariff": 986.47,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 2708.55,
+            "Other": 87.62,
+            "Total": 108008.21,
+            "Baseline": 0.0,
+            "Budget": 999.94
+        },
+        "Demand": {
+            "Actual": 2704,
+            "Bill": 1824
+        },
+        "Weather": {
+            "HDD": 30.3,
+            "CDD": 8.24
+        }
+    },
+    {
+        "UsageDate": "04/11/2023",
+        "Usage": {
+            "Commodity": 876402,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": null,
+            "Budget": null
+        },
+        "Cost": {
+            "TotalCommodity": 101719.49,
+            "Supply": 101719.49,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 977.01,
+            "Tariff": 977.01,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3877.89,
+            "Other": 61.92,
+            "Total": 106636.31,
+            "Baseline": 0.0,
+            "Budget": null
+        },
+        "Demand": {
+            "Actual": 2146,
+            "Bill": 1849
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "05/11/2023",
+        "Usage": {
+            "Commodity": 882986,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 196.02,
+            "Budget": 654.98
+        },
+        "Cost": {
+            "TotalCommodity": 78122.73,
+            "Supply": 78122.73,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 1097.44,
+            "Tariff": 1097.44,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3860.45,
+            "Other": 44.09,
+            "Total": 83124.71,
+            "Baseline": 0.0,
+            "Budget": 654.98
+        },
+        "Demand": {
+            "Actual": 2255,
+            "Bill": 2679
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "06/11/2023",
+        "Usage": {
+            "Commodity": 717679,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 279.01,
+            "Budget": 792.98
+        },
+        "Cost": {
+            "TotalCommodity": 75426.09,
+            "Supply": 75426.09,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 576.17,
+            "Tariff": 576.17,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3088.1,
+            "Other": 51.37,
+            "Total": 79141.73,
+            "Baseline": 0.0,
+            "Budget": 792.98
+        },
+        "Demand": {
+            "Actual": 2683,
+            "Bill": 2311
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "07/11/2023",
+        "Usage": {
+            "Commodity": 848083,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 957.66,
+            "Budget": 86.45
+        },
+        "Cost": {
+            "TotalCommodity": 99942.48,
+            "Supply": 99942.48,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 863.23,
+            "Tariff": 863.23,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3057.83,
+            "Other": 25.01,
+            "Total": 103888.55,
+            "Baseline": 0.0,
+            "Budget": 86.45
+        },
+        "Demand": {
+            "Actual": 2049,
+            "Bill": 2012
+        },
+        "Weather": {
+            "HDD": 38.96,
+            "CDD": 64.29
+        }
+    },
+    {
+        "UsageDate": "08/11/2023",
+        "Usage": {
+            "Commodity": 765480,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": null,
+            "Budget": 623.84
+        },
+        "Cost": {
+            "TotalCommodity": 88334.61,
+            "Supply": 88334.61,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 1272.88,
+            "Tariff": 1272.88,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3624.41,
+            "Other": 38.88,
+            "Total": 93270.78,
+            "Baseline": 0.0,
+            "Budget": 623.84
+        },
+        "Demand": {
+            "Actual": 2696,
+            "Bill": 1831
+        },
+        "Weather": {
+            "HDD": 41.92,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "09/11/2023",
+        "Usage": {
+            "Commodity": 647745,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 605.21,
+            "Budget": 927.3
+        },
+        "Cost": {
+            "TotalCommodity": 113555.05,
+            "Supply": 113555.05,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 896.61,
+            "Tariff": 896.61,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 2962.8,
+            "Other": 75.93,
+            "Total": 117490.39,
+            "Baseline": 0.0,
+            "Budget": 927.3
+        },
+        "Demand": {
+            "Actual": 1759,
+            "Bill": 2590
+        },
+        "Weather": {
+            "HDD": 41.32,
+            "CDD": 47.35
+        }
+    },
+    {
+        "UsageDate": "10/11/2023",
+        "Usage": {
+            "Commodity": 858901,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": null,
+            "Budget": null
+        },
+        "Cost": {
+            "TotalCommodity": 111829.25,
+            "Supply": 111829.25,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 1089.99,
+            "Tariff": 1089.99,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3714.81,
+            "Other": 73.76,
+            "Total": 116707.81,
+            "Baseline": 0.0,
+            "Budget": null
+        },
+        "Demand": {
+            "Actual": 1537,
+            "Bill": 2509
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": 68.93
+        }
+    },
+    {
+        "UsageDate": "11/11/2023",
+        "Usage": {
+            "Commodity": 676463,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": null,
+            "Budget": 165.17
+        },
+        "Cost": {
+            "TotalCommodity": 96456.74,
+            "Supply": 96456.74,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 1450.25,
+            "Tariff": 1450.25,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3045.49,
+            "Other": 43.88,
+            "Total": 100996.36,
+            "Baseline": 0.0,
+            "Budget": 165.17
+        },
+        "Demand": {
+            "Actual": 1773,
+            "Bill": 2426
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": 52.21
+        }
+    },
+    {
+        "UsageDate": "12/11/2023",
+        "Usage": {
+            "Commodity": 793221,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 907.69,
+            "Budget": 194.82
+        },
+        "Cost": {
+            "TotalCommodity": 87678.51,
+            "Supply": 87678.51,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 620.62,
+            "Tariff": 620.62,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3127.2,
+            "Other": 78.27,
+            "Total": 91504.6,
+            "Baseline": 0.0,
+            "Budget": 194.82
+        },
+        "Demand": {
+            "Actual": 2784,
+            "Bill": 1531
+        },
+        "Weather": {
+            "HDD": 8.17,
+            "CDD": 91.72
+        }
+    },
+    {
+        "UsageDate": "13/11/2023",
+        "Usage": {
+            "Commodity": 874874,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": null,
+            "Budget": 827.25
+        },
+        "Cost": {
+            "TotalCommodity": 99622.02,
+            "Supply": 99622.02,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 692.4,
+            "Tariff": 692.4,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3943.81,
+            "Other": 85.69,
+            "Total": 104343.92,
+            "Baseline": 0.0,
+            "Budget": 827.25
+        },
+        "Demand": {
+            "Actual": 2221,
+            "Bill": 1872
+        },
+        "Weather": {
+            "HDD": 13.97,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "14/11/2023",
+        "Usage": {
+            "Commodity": 957384,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": null,
+            "Budget": 465.13
+        },
+        "Cost": {
+            "TotalCommodity": 90250.14,
+            "Supply": 90250.14,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 828.56,
+            "Tariff": 828.56,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3471.4,
+            "Other": 58.07,
+            "Total": 94608.17,
+            "Baseline": 0.0,
+            "Budget": 465.13
+        },
+        "Demand": {
+            "Actual": 1858,
+            "Bill": 1537
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": 82.73
+        }
+    },
+    {
+        "UsageDate": "15/11/2023",
+        "Usage": {
+            "Commodity": 617866,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 567.25,
+            "Budget": 476.44
+        },
+        "Cost": {
+            "TotalCommodity": 91060.98,
+            "Supply": 91060.98,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 1188.66,
+            "Tariff": 1188.66,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 2992.86,
+            "Other": 60.15,
+            "Total": 95302.65,
+            "Baseline": 0.0,
+            "Budget": 476.44
+        },
+        "Demand": {
+            "Actual": 1942,
+            "Bill": 1796
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": 19.08
+        }
+    },
+    {
+        "UsageDate": "16/11/2023",
+        "Usage": {
+            "Commodity": 817771,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": null,
+            "Budget": 516.02
+        },
+        "Cost": {
+            "TotalCommodity": 76920.43,
+            "Supply": 76920.43,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 1080.54,
+            "Tariff": 1080.54,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 2990.95,
+            "Other": 71.14,
+            "Total": 81063.06,
+            "Baseline": 0.0,
+            "Budget": 516.02
+        },
+        "Demand": {
+            "Actual": 2879,
+            "Bill": 1866
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": 50.0
+        }
+    },
+    {
+        "UsageDate": "17/11/2023",
+        "Usage": {
+            "Commodity": 737392,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 880.64,
+            "Budget": 565.43
+        },
+        "Cost": {
+            "TotalCommodity": 60249.09,
+            "Supply": 60249.09,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 1263.04,
+            "Tariff": 1263.04,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3273.63,
+            "Other": 35.93,
+            "Total": 64821.69,
+            "Baseline": 0.0,
+            "Budget": 565.43
+        },
+        "Demand": {
+            "Actual": 2072,
+            "Bill": 2273
+        },
+        "Weather": {
+            "HDD": 92.64,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "18/11/2023",
+        "Usage": {
+            "Commodity": 801588,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 785.73,
+            "Budget": 823.38
+        },
+        "Cost": {
+            "TotalCommodity": 58949.22,
+            "Supply": 58949.22,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 654.21,
+            "Tariff": 654.21,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 2512.33,
+            "Other": 71.95,
+            "Total": 62187.71,
+            "Baseline": 0.0,
+            "Budget": 823.38
+        },
+        "Demand": {
+            "Actual": 2554,
+            "Bill": 2686
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "19/11/2023",
+        "Usage": {
+            "Commodity": 625958,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 84.48,
+            "Budget": 655.22
+        },
+        "Cost": {
+            "TotalCommodity": 118820.3,
+            "Supply": 118820.3,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 684.17,
+            "Tariff": 684.17,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3136.46,
+            "Other": 22.26,
+            "Total": 122663.19,
+            "Baseline": 0.0,
+            "Budget": 655.22
+        },
+        "Demand": {
+            "Actual": 1694,
+            "Bill": 1614
+        },
+        "Weather": {
+            "HDD": 94.42,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "20/11/2023",
+        "Usage": {
+            "Commodity": 881018,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 514.53,
+            "Budget": 918.48
+        },
+        "Cost": {
+            "TotalCommodity": 88321.03,
+            "Supply": 88321.03,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 535.67,
+            "Tariff": 535.67,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3193.32,
+            "Other": 51.2,
+            "Total": 92101.22,
+            "Baseline": 0.0,
+            "Budget": 918.48
+        },
+        "Demand": {
+            "Actual": 1971,
+            "Bill": 2753
+        },
+        "Weather": {
+            "HDD": 65.65,
+            "CDD": 76.82
+        }
+    },
+    {
+        "UsageDate": "21/11/2023",
+        "Usage": {
+            "Commodity": 927744,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": null,
+            "Budget": 775.98
+        },
+        "Cost": {
+            "TotalCommodity": 58899.6,
+            "Supply": 58899.6,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 520.21,
+            "Tariff": 520.21,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 2880.26,
+            "Other": 38.77,
+            "Total": 62338.84,
+            "Baseline": 0.0,
+            "Budget": 775.98
+        },
+        "Demand": {
+            "Actual": 2821,
+            "Bill": 1595
+        },
+        "Weather": {
+            "HDD": 17.47,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "22/11/2023",
+        "Usage": {
+            "Commodity": 703892,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": null,
+            "Budget": null
+        },
+        "Cost": {
+            "TotalCommodity": 50495.81,
+            "Supply": 50495.81,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 1387.47,
+            "Tariff": 1387.47,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3564.41,
+            "Other": 43.19,
+            "Total": 55490.88,
+            "Baseline": 0.0,
+            "Budget": null
+        },
+        "Demand": {
+            "Actual": 1680,
+            "Bill": 2617
+        },
+        "Weather": {
+            "HDD": 63.97,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "23/11/2023",
+        "Usage": {
+            "Commodity": 875775,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 405.66,
+            "Budget": 822.36
+        },
+        "Cost": {
+            "TotalCommodity": 57928.54,
+            "Supply": 57928.54,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 974.24,
+            "Tariff": 974.24,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3528.33,
+            "Other": 68.09,
+            "Total": 62499.2,
+            "Baseline": 0.0,
+            "Budget": 822.36
+        },
+        "Demand": {
+            "Actual": 2455,
+            "Bill": 2048
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": null
+        }
+    },
+    {
+        "UsageDate": "24/11/2023",
+        "Usage": {
+            "Commodity": 862358,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 418.9,
+            "Budget": 673.38
+        },
+        "Cost": {
+            "TotalCommodity": 101308.47,
+            "Supply": 101308.47,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 1064.85,
+            "Tariff": 1064.85,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 2823.58,
+            "Other": 57.13,
+            "Total": 105254.03,
+            "Baseline": 0.0,
+            "Budget": 673.38
+        },
+        "Demand": {
+            "Actual": 1706,
+            "Bill": 1882
+        },
+        "Weather": {
+            "HDD": null,
+            "CDD": 3.39
+        }
+    },
+    {
+        "UsageDate": "25/11/2023",
+        "Usage": {
+            "Commodity": 695144,
+            "Transport": 0,
+            "Baseline": 0,
+            "WeatherNormalized": 893.68,
+            "Budget": null
+        },
+        "Cost": {
+            "TotalCommodity": 116323.92,
+            "Supply": 116323.92,
+            "Transmission": 0.0,
+            "Capacity": 0.0,
+            "TotalTransport": 1097.06,
+            "Tariff": 1097.06,
+            "4CPNCP": 0.0,
+            "BillingDemand": 0.0,
+            "Taxes": 3224.27,
+            "Other": 62.17,
+            "Total": 120707.42,
+            "Baseline": 0.0,
+            "Budget": null
+        },
+        "Demand": {
+            "Actual": 2465,
+            "Bill": 2002
+        },
+        "Weather": {
+            "HDD": 92.48,
+            "CDD": 7.74
+        }
+    }
+]
